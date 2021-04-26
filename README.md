@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img alt="plant manager" src=".github/Home.svg" width="100%">
+  <img alt="plant manager" src="https://github.com/WerterBonfim/NLW5-React-Next-podcastrnext/blob/main/.github/Home.svg" width="100%">
 </p>
 
 
