@@ -36,7 +36,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## Como Executar
 ```bash
-git clone https://github.com/WerterBonfim/NLW5-React-Next-podcastrnext.git podcastrnext
+git clone https://github.com/LizandraBonfim/NLW-React-05.git podcastr
 
 
 cd podcastrnext
